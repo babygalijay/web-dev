@@ -70,25 +70,6 @@
     .contact-icons a:hover {
       color: #f39c12;
     }
-/* Responsive iframe style for all projects */
-.iframe-wrapper {
-  overflow: hidden;
-  border-radius: 8px;
-  width: 100%;
-}
-
-.iframe-wrapper iframe {
-  width: 100%;
-  height: 60vh; /* 60% of viewport height */
-  border: none;
-  display: block;
-}
-
-@media (max-width: 768px) {
-  .iframe-wrapper iframe {
-    height: 40vh; /* smaller height on mobile */
-  }
-}
 
 
     /* Footer Styling */
